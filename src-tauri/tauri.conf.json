@@ -43,11 +43,8 @@
     },
     "windows": [
       {
-        "fullscreen": false,
-        "height": 600,
-        "resizable": true,
-        "title": "Deck Dash",
-        "width": 800
+        "fullscreen": true,
+        "title": "Deck Dash"
       }
     ]
   }
